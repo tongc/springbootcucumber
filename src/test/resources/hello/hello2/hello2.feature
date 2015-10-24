@@ -1,6 +1,6 @@
 Feature: Hello
 
-  Scenario: I don't know why you say goodbye, I say hello1
+  Scenario: I don't know why you say goodbye, I say hello8
     When I go to the hello page
     Then I expect to see "Hello, World!"
 
